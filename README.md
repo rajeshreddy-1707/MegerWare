@@ -1,4 +1,4 @@
-### Loan Management Application
+# Loan Management Application
 This Meteor and Blaze-based loan management application enables users to register, request loans, and oversee loan transactions. The application includes the following functionalities:
 
 ## User Registration
