@@ -24,22 +24,21 @@ Open your browser and navigate to http://localhost:3000/.
 
 ## Dependencies
 ### Meteor Packages
-accounts-ui
-accounts-password
-kadira:flow-router
-kadira:blaze-layout
-twbs:bootstrap
-themeteorchef:jquery-validation
-jquery
-tprzytula:remember-me
-fortawesome:fontawesome
+- accounts-ui
+- accounts-password
+- kadira:flow-router
+- kadira:blaze-layout
+- twbs:bootstrap
+- themeteorchef:jquery-validation
+- jquery
+- tprzytula:remember-me
+- fortawesome:fontawesome
 
 ### NPM Modules
-Meteor
-Bcrypt
-@babel/runtime
-meteor-node-stubs
-
+- Meteor
+- Bcrypt
+- @babel/runtime
+- meteor-node-stubs
 
 ## Process
 This application builds upon the existing Meteor/Blaze project, incorporating additional features for user roles, loan requests, and transactions. Leveraging Meteor's reactive capabilities ensures instant updates on user dashboards.
